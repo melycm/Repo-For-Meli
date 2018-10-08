@@ -1,0 +1,26 @@
+body {    
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Roboto', Arial, Helvetica;
+}
+
+header{
+    height: 40px;
+    background-color: #3f51b5;
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.restaurantPTags{
+    margin: 10px 20px;
+}
+
+.restaurantFlex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}

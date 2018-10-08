@@ -1,0 +1,13 @@
+{
+    "name": "Be Better",
+    "short_name": "Be Better",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3F51B5",
+    "description": "Progressive web app that finds businesses through geolocation and ratings.",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary"
+}
