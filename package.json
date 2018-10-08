@@ -11,9 +11,6 @@
   ],
   "author": "Melissa Cantu, Keith Pittman",
   "license": "ISC",
-  "devDependencies": {
-    "http-server": "^0.10.0"
-  },
   "dependencies": {
     "node": "^10.11.0"
   }
