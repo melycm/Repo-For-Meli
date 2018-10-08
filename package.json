@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Progressive web app that finds businesses through geolocation and ratings.",
   "main": "index.js",
+  "scripts":{
+    "start": "http-server -c-1"
+  },
   "keywords": [
     "pwa",
     "progressive",
@@ -11,6 +14,9 @@
   ],
   "author": "Melissa Cantu, Keith Pittman",
   "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
   "dependencies": {
     "node": "^10.11.0"
   }
